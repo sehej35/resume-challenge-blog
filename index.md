@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Blog Post for Cloud Resume Challenge
 
 You can use the [editor on GitHub](https://github.com/sehej35/resume-challenge-blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
